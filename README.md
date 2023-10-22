@@ -2,6 +2,11 @@
 
 A boilerplate project that combines Laravel 10 with Inertia.js and React for rapid web application development.
 
+
+# Looking for an Admin Panel ?
+
+For an admin panel with Authentication functionality, explore [Inertia React Admin Panel](https://github.com/Mayank-Javiya/inertia-react-admin-panel). It's built on top of this scaffold, providing a seamless setup process and an integrated Bootstrap admin panel.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
